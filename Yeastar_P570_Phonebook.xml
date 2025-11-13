@@ -1,74 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Phonebook>
-  <Contact>
-    <DisplayName>Arshad Ahmad-IT</DisplayName>
-    <OfficeNumber>121</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 2.IT</Group>
-  </Contact>
-  <Contact>
-    <DisplayName>Mahmoud-IT Manager</DisplayName>
-    <OfficeNumber>120</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 2.IT</Group>
-  </Contact>
-  <Contact>
-    <DisplayName>Ahmed-IT</DisplayName>
-    <OfficeNumber>122</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 2.IT</Group>
-  </Contact>
-  <Contact>
-    <DisplayName>Kashif Ijas - IT</DisplayName>
-    <OfficeNumber>123</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 2.IT</Group>
-  </Contact>
-  <Contact>
-    <DisplayName>Jalal-IT</DisplayName>
-    <OfficeNumber>124</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 2.IT</Group>
-  </Contact>
-  <Contact>
-    <DisplayName>Mina-IA</DisplayName>
-    <OfficeNumber>185</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 3.Accounts</Group>
-  </Contact>
-  <Contact>
-    <DisplayName>Walled Humran-HR</DisplayName>
-    <OfficeNumber>130</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 5.HR</Group>
-  </Contact>
-  <Contact>
-    <DisplayName>Anas Manager-Procurement</DisplayName>
-    <OfficeNumber>180</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 6.Procurement</Group>
-  </Contact>
-  <Contact>
-    <DisplayName>Ahmad Yousef-Finance Manager</DisplayName>
-    <OfficeNumber>170</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 4.Sales</Group>
-  </Contact>
-  <Contact>
-    <DisplayName>Sara Alzeer-Chief Accountant</DisplayName>
-    <OfficeNumber>140</OfficeNumber>
-    <MobileNumber></MobileNumber>
-    <OtherNumber></OtherNumber>
-    <Group>Riyadh Office - 3.Accounts</Group>
-  </Contact>
-  <!-- Continue same structure for all remaining rows in your CSV -->
-</Phonebook>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<students>
+  <student number="1001">
+    <name>Li Hua</name>
+    <age>20</age>
+    <sex>male</sex>
+  </student>
+
+  <student number="1002">
+    <name>Zhang San</name>
+    <age>21</age>
+    <sex>female</sex>
+  </student>
+
+  <student number="1003">
+    <name>Wang Wu</name>
+    <age>22</age>
+    <sex>male</sex>
+  </student>
+</students>
