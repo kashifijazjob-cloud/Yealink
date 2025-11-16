@@ -1,0 +1,6 @@
+<yealinkIPPhoneConfig>
+    <RemotePhonebook.1.url>https://raw.githubusercontent.com/kashifijazjob-cloud/Yealink/refs/heads/main/remote_phonebook.xml</RemotePhonebook.1.url>
+    <RemotePhonebook.2.url>https://raw.githubusercontent.com/kashifijazjob-cloud/Yealink/refs/heads/main/management.xml</RemotePhonebook.2.url>
+  <RemotePhonebook.3.url>https://raw.githubusercontent.com/kashifijazjob-cloud/Yealink/refs/heads/main/Yeastar_P570_Phonebook.xml</RemotePhonebook.3.url>
+  <RemotePhonebook.4.url>https://raw.githubusercontent.com/kashifijazjob-cloud/Yealink/refs/heads/main/Yealink_RemotePhonebook.xml</RemotePhonebook.4.url>
+</yealinkIPPhoneConfig>
