@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Directory>
+    <Menu Name="Riyadh">
+
+        <Menu Name="Management">
+            <DirectoryEntry>
+                <Name>Manager 1</Name>
+                <Telephone>1001</Telephone>
+            </DirectoryEntry>
+            <DirectoryEntry>
+                <Name>Manager 2</Name>
+                <Telephone>1002</Telephone>
+            </DirectoryEntry>
+        </Menu>
+
+        <Menu Name="IT">
+            <DirectoryEntry>
+                <Name>IT Support 1</Name>
+                <Telephone>2001</Telephone>
+            </DirectoryEntry>
+            <DirectoryEntry>
+                <Name>IT Support 2</Name>
+                <Telephone>2002</Telephone>
+            </DirectoryEntry>
+        </Menu>
+
+        <Menu Name="Accounts">
+            <DirectoryEntry>
+                <Name>Accountant 1</Name>
+                <Telephone>3001</Telephone>
+            </DirectoryEntry>
+        </Menu>
+
+        <Menu Name="Sales">
+            <DirectoryEntry>
+                <Name>Sales 1</Name>
+                <Telephone>4001</Telephone>
+            </DirectoryEntry>
+        </Menu>
+
+        <Menu Name="HR">
+            <DirectoryEntry>
+                <Name>HR Officer 1</Name>
+                <Telephone>5001</Telephone>
+            </DirectoryEntry>
+        </Menu>
+
+    </Menu>
+</Directory>
