@@ -3,47 +3,47 @@
   <Title>Riyadh</Title>
 
   <DirectoryEntry>
-    <Name>Riyadh Office - 1.Management</Name>
+    <Name>Management</Name>
     <Telephone>URL_TO_Riyadh_1_Management.xml</Telephone>
   </DirectoryEntry>
 
   <DirectoryEntry>
-    <Name>Riyadh Office - 2.IT</Name>
+    <Name>IT</Name>
     <Telephone>URL_TO_Riyadh_2_IT.xml</Telephone>
   </DirectoryEntry>
 
   <DirectoryEntry>
-    <Name>Riyadh Office - 3.Accounts</Name>
+    <Name>Accounts</Name>
     <Telephone>URL_TO_Riyadh_3_Accounts.xml</Telephone>
   </DirectoryEntry>
 
   <DirectoryEntry>
-    <Name>Riyadh Office - 4.Sales</Name>
+    <Name>Sales</Name>
     <Telephone>URL_TO_Riyadh_4_Sales.xml</Telephone>
   </DirectoryEntry>
 
   <DirectoryEntry>
-    <Name>Riyadh Office - 5.HR</Name>
+    <Name>HR</Name>
     <Telephone>URL_TO_Riyadh_5_HR.xml</Telephone>
   </DirectoryEntry>
 
   <DirectoryEntry>
-    <Name>Riyadh Office - 6.Procurement</Name>
+    <Name>Procurement</Name>
     <Telephone>URL_TO_Riyadh_6_Procurement.xml</Telephone>
   </DirectoryEntry>
 
   <DirectoryEntry>
-    <Name>Riyadh Office - 7.Transport</Name>
+    <Name>Transport</Name>
     <Telephone>URL_TO_Riyadh_7_Transport.xml</Telephone>
   </DirectoryEntry>
 
   <DirectoryEntry>
-    <Name>Riyadh Office - 8.T.BOY</Name>
+    <Name>T.BOY</Name>
     <Telephone>URL_TO_Riyadh_8_TBOY.xml</Telephone>
   </DirectoryEntry>
 
   <DirectoryEntry>
-    <Name>Riyad Office 9.WareHouse</Name>
+    <Name>WareHouse</Name>
     <Telephone>URL_TO_Riyadh_9_Warehouse.xml</Telephone>
   </DirectoryEntry>
 
