@@ -1,136 +1,172 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<directory>
-  <contacts>
-    <contact>
-      <display_name>Arshad Ahmad-IT</display_name>
-      <office_number>121</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line>-1</line>
-      <ring>Auto</ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 2.IT</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <contact>
-      <display_name>Mahmoud-IT Manager</display_name>
-      <office_number>120</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line></line>
-      <ring></ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 2.IT</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <contact>
-      <display_name>Ahmed-IT</display_name>
-      <office_number>122</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line></line>
-      <ring></ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 2.IT</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <contact>
-      <display_name>Kashif Ijas - IT</display_name>
-      <office_number>123</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line></line>
-      <ring></ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 2.IT</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <contact>
-      <display_name>Jalal-IT</display_name>
-      <office_number>124</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line></line>
-      <ring></ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 2.IT</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <contact>
-      <display_name>Mina-IA</display_name>
-      <office_number>185</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line></line>
-      <ring></ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 3.Accounts</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <contact>
-      <display_name>Walled Humran-HR</display_name>
-      <office_number>130</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line></line>
-      <ring></ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 5.HR</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <contact>
-      <display_name>Anas Manager-Procurement</display_name>
-      <office_number>180</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line></line>
-      <ring></ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 6.Procurement</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <contact>
-      <display_name>Ahmad Yousef-Finance Manager</display_name>
-      <office_number>170</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line></line>
-      <ring></ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 4.Sales</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <contact>
-      <display_name>Sara Alzeer-Chief Accountant</display_name>
-      <office_number>140</office_number>
-      <mobile_number></mobile_number>
-      <other_number></other_number>
-      <line></line>
-      <ring></ring>
-      <auto_divert></auto_divert>
-      <priority></priority>
-      <group_id_name>Riyadh Office - 3.Accounts</group_id_name>
-      <default_photo></default_photo>
-      <photo_data></photo_data>
-    </contact>
-    <!-- ... continues for all other rows ... -->
-  </contacts>
-</directory>
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneDirectory>
+    <!-- 100s -->
+    <DirectoryEntry><Name>Haitham-Follow-Up-Officer</Name><Number>101</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>102</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>103</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Abdulaziz Fahad Albejadi</Name><Number>104</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>105</Number></DirectoryEntry>
+    <DirectoryEntry><Name>MD Secretary</Name><Number>106</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>107</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>108</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>109</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Abdul Salam-Office Manager</Name><Number>110</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Haitham Samir- C.E.O</Name><Number>111</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>112</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>113</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>114</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>115</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>116</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>117</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>118</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>119</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Mahmoud-IT Manager</Name><Number>120</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Arshad Ahmad-IT</Name><Number>121</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ahmed Selmi IT Dep</Name><Number>122</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Kashif Ijaz-IT</Name><Number>123</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Jalal-IT (Supervisor)</Name><Number>124</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Maaz alzain-ERP Specialist</Name><Number>125</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>126</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>127</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>128</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>129</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Waleed Bin Humran-HR</Name><Number>130</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Mohamad Alhumaid - HR</Name><Number>131</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Anoud Alotibi- HR</Name><Number>132</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Dona Albijadi - HR</Name><Number>133</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Abdullah Alsalem - HR</Name><Number>134</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Hajar Alghanami-HR</Name><Number>135</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reem Alshehri - HR</Name><Number>136</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>137</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>138</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>139</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Sara Alzeer_Chief Accountant</Name><Number>140</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ayoub Wh Riyad</Name><Number>141</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Nasraldeen Slah- Accounts</Name><Number>142</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Belal Atef-Accounts</Name><Number>143</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Alaa Shahein-Accounts</Name><Number>144</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Fahad Alamairah - Accounts</Name><Number>145</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ahmed Shaker Cost Supervisor</Name><Number>146</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ahmed Abdulhaleem-Accounts</Name><Number>147</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>148</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>149</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>150</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Mohammed Almutariii- Accounts</Name><Number>151</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Mohamed Al Hadi Ali -Accounts</Name><Number>152</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Abdulaziz Almutari-Accounts</Name><Number>153</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Mohammad Abubakar-Accounts</Name><Number>154</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>155</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Elgasim Ismail - Cash Collection</Name><Number>156</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>157</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>158</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ahmad Yousef-Finance Manager</Name><Number>170</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Hatem Elmasri - Sales Supervisor</Name><Number>171</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Khalid Omar</Name><Number>172</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Mohammad Rubel- Sales</Name><Number>173</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Imran Khan - Sales</Name><Number>174</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>175</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Sayed-Sales</Name><Number>176</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Abdulrahman Fahad Albejadi</Name><Number>177</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>178</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>179</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Anas-Manager Procurement</Name><Number>180</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Islam-Procurement</Name><Number>181</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>182</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Jamal-Veterinary Services Manager</Name><Number>183</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Jawad Arafat</Name><Number>184</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Mina Magdy - IA</Name><Number>185</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>186</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>187</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>188</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>189</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Wael - Manager Transportaion</Name><Number>190</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Wadha Aldosari - Transportaion</Name><Number>191</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Saifeldin Elbadawi - Transportaion</Name><Number>192</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>193</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>194</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reihan Aldosari - Sales support</Name><Number>195</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>196</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>197</Number></DirectoryEntry>
+    <DirectoryEntry><Name>T-Boy Abdul</Name><Number>198</Number></DirectoryEntry>
+    <DirectoryEntry><Name>T-Boy Krishna</Name><Number>199</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ahmed Almadhi - Director of Production-Shaqra</Name><Number>200</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Abdulrhman Alsheikh - Production Coordinator-Shaqra</Name><Number>201</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ahamad Osama Broiler Manager-Shaqra</Name><Number>202</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Mohammed Yousri- Cost Accountant-Shaqra</Name><Number>203</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Moideen Logistics-Shaqra</Name><Number>204</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ahmed Abdul Jawad - Warehouse Manager-Shaqra</Name><Number>205</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ayman Bashir - Warehouse Keeper-Shaqra</Name><Number>206</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>207</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Amal Almotairi Quality controller Hatchery-Shaqra</Name><Number>208</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Akash Gate- Shaqra</Name><Number>209</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ghassan Alshehada-Shaqra</Name><Number>210</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Abdulla - Farm Area Manager-Shaqra</Name><Number>211</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ahmed Ragab Feedmill Engineer-Shaqra</Name><Number>212</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ahmad El Shareef Hatchery Manager-Shaqra</Name><Number>213</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Nizamuddin Feedmill Engineer-Shaqra</Name><Number>214</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Nizar Alnaffakh - Maintenance Manager-Shaqra</Name><Number>215</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Youssef Alomar - Maintenance Supervisor-Shaqra</Name><Number>216</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Yaseen - T-BOY-Shaqra</Name><Number>217</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Firoz- T-BOY-Shaqra</Name><Number>218</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ibrahim Saleh Feedmill Manager-Shaqra</Name><Number>219</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Naeem DR-Shaqra</Name><Number>220</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Ibrahim DR-Shaqra</Name><Number>221</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Reserved</Name><Number>222</Number></DirectoryEntry>
+    <DirectoryEntry><Name>Jamshed Khan Feedmill Control Room Operator</Name><Number>223</Number></DirectoryEntry>
+    <DirectoryEntry><Name>FeedMill Weighing Area-Shaqra</Name><Number>224</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Anwar-Head Of The Industrial Sector</Name><Number>300</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Manaf Amonia</Name><Number>301</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Ravi Sankar Amonia</Name><Number>302</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Packing Area</Name><Number>303</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Receiving Area</Name><Number>304</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Security</Name><Number>305</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Ahmed Maintanace Manager</Name><Number>306</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Abdullah Albijadi Accounts</Name><Number>307</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Ammar Jawad Senior Quality</Name><Number>308</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Rawan DataEntry</Name><Number>309</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Hatim Safety</Name><Number>310</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Muhannad Accounts</Name><Number>311</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Muhammed Amir Engineer</Name><Number>312</Number></DirectoryEntry>
+<DirectoryEntry><Name>Marat - Muhammed Omar Production Manager</Name><Number>313</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>314</Number></DirectoryEntry>
+
+<!-- 400s - Arar -->
+<DirectoryEntry><Name>Arar HR</Name><Number>400</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Farm 1</Name><Number>401</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Farm 2</Name><Number>402</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>403</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Farm 4</Name><Number>404</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Farm 5</Name><Number>405</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Farm 6</Name><Number>406</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Water Treatment plant</Name><Number>407</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Hatchery Office 2</Name><Number>408</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Haider Maintenance</Name><Number>409</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Ahmed Kandil Hatchery Manager</Name><Number>410</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>411</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Doctor Amr</Name><Number>412</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Gate Ali</Name><Number>413</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Accommodation</Name><Number>414</Number></DirectoryEntry>
+<DirectoryEntry><Name>Arar Mohamed Hegazy</Name><Number>415</Number></DirectoryEntry>
+
+<!-- 500s -->
+<DirectoryEntry><Name>Reserved</Name><Number>500</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>501</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>502</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>503</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>504</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>505</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>506</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>507</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>508</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>509</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>510</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>511</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>512</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>513</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>514</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>515</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>516</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>517</Number></DirectoryEntry>
+<DirectoryEntry><Name>kashif (Administrator)</Name><Number>518</Number></DirectoryEntry>
+<DirectoryEntry><Name>Reserved</Name><Number>519</Number></DirectoryEntry>
+</YealinkIPPhoneDirectory>
