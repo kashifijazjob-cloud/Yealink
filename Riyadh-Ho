@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneDirectory>
+  <Title>Riyadh Contacts</Title>
+
+  <!-- Management -->
+  <DirectoryEntry>
+    <Name>Abdul Saalm-Office Manager</Name>
+    <Telephone>110</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Haitham Samir- C.E.O</Name>
+    <Telephone>111</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Abdulaziz-Chairman</Name>
+    <Telephone>100</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Haitham-Follow-Up-Officer</Name>
+    <Telephone>101</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Jawad Consultant</Name>
+    <Telephone>184</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>AbdulazizFahadBijadi</Name>
+    <Telephone>104</Telephone>
+  </DirectoryEntry>
+
+  <!-- IT -->
+  <DirectoryEntry>
+    <Name>Arshad Ahmad-IT</Name>
+    <Telephone>121</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Mahmoud-IT Manager</Name>
+    <Telephone>120</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Ahmed-IT</Name>
+    <Telephone>122</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Kashif Ijas - IT</Name>
+    <Telephone>123</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Jalal-IT</Name>
+    <Telephone>124</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Maaz Alzain ERP Specialist</Name>
+    <Telephone>125</Telephone>
+  </DirectoryEntry>
+
+  <!-- Accounts -->
+  <DirectoryEntry>
+    <Name>Mina-IA</Name>
+    <Telephone>185</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Sara Alzeer-Chief Accountant</Name>
+    <Telephone>140</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Muhammed Abubaker -Accounts</Name>
+    <Telephone>154</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Muhammed Almutairi-Accounts</Name>
+    <Telephone>151</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Muhammed Al hadi-Accounts</Name>
+    <Telephone>152</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>AbdulazizMuthairi-Accounts</Name>
+    <Telephone>153</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Shadi- Accounts</Name>
+    <Telephone>149</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Ahmed Abdulhaleem-Accounts</Name>
+    <Telephone>147</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Alaa Shahien-Accounts</Name>
+    <Telephone>144</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fahad Al Amairah-Accounts</Name>
+    <Telephone>145</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Elgasim Ismail Coordinator</Name>
+    <Telephone>156</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Nasraldeen Slah Cost Department</Name>
+    <Telephone>142</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Ahmed Shaker Cost Supervisor</Name>
+    <Telephone>146</Telephone>
+  </DirectoryEntry>
+
+  <!-- HR -->
+  <DirectoryEntry>
+    <Name>Walled Humran-HR</Name>
+    <Telephone>130</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Abdullah Alsalem-HR</Name>
+    <Telephone>134</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Anoud Alotibi-HR</Name>
+    <Telephone>132</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Dona Bijadi-HR</Name>
+    <Telephone>133</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Reem Alshehri-HR</Name>
+    <Telephone>136</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Abdulaziz Aladeliah Gov Relation officer</Name>
+    <Telephone>137</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Mohamad Alhumaied</Name>
+    <Telephone>131</Telephone>
+  </DirectoryEntry>
+
+  <!-- Sales -->
+  <DirectoryEntry>
+    <Name>Ahmad Yousef-Finance Manager</Name>
+    <Telephone>170</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Sayed - Sales</Name>
+    <Telephone>176</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>ImranKhan-Sales</Name>
+    <Telephone>174</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Rubel</Name>
+    <Telephone>173</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Khalid Omar Sales</Name>
+    <Telephone>172</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Riehan Aldosari Customer Service</Name>
+    <Telephone>195</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Abdulrahman Fahad Albejadi</Name>
+    <Telephone>177</Telephone>
+  </DirectoryEntry>
+
+  <!-- Procurement -->
+  <DirectoryEntry>
+    <Name>Anas Manager-Procurement</Name>
+    <Telephone>180</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Islam Procurement</Name>
+    <Telephone>181</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Jamal Vetrinery-Service Manager</Name>
+    <Telephone>183</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Ibtisam Jamaan Purchasing</Name>
+    <Telephone>182</Telephone>
+  </DirectoryEntry>
+
+  <!-- Transport -->
+  <DirectoryEntry>
+    <Name>Wael Mohamed Transport</Name>
+    <Telephone>190</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Wadha Aldosari</Name>
+    <Telephone>191</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Saifeldin Elbadawi Transport</Name>
+    <Telephone>192</Telephone>
+  </DirectoryEntry>
+
+  <!-- T.BOY -->
+  <DirectoryEntry>
+    <Name>T-Boy Abdul</Name>
+    <Telephone>198</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>T-Boy Krishna</Name>
+    <Telephone>199</Telephone>
+  </DirectoryEntry>
+
+  <!-- Warehouse -->
+  <DirectoryEntry>
+    <Name>Ayoub WareHouse</Name>
+    <Telephone>141</Telephone>
+  </DirectoryEntry>
+
+</YealinkIPPhoneDirectory>
