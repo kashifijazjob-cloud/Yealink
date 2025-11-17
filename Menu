@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneBook>
-    <MenuItem>
-        <Name>IT Department</Name>
-        <URL>https://raw.githubusercontent.com/kashifijazjob-cloud/Yealink/refs/heads/main/Riyadh-Ho</URL>
-    </MenuItem>
-
-    <MenuItem>
-        <Name>HR Department</Name>
-        <URL>http://yourserver/HR.xml</URL>
-    </MenuItem>
-
-    <MenuItem>
-        <Name>Sales Department</Name>
-        <URL>http://yourserver/Sales.xml</URL>
-    </MenuItem>
-
-    <MenuItem>
-        <Name>Accounts Department</Name>
-        <URL>http://yourserver/Accounts.xml</URL>
-    </MenuItem>
-
-    <MenuItem>
-        <Name>Management</Name>
-        <URL>http://yourserver/Management.xml</URL>
-    </MenuItem>
-</YealinkIPPhoneBook>
-
+<YealinkIPPhoneDirectory>
+    <DirectoryEntry>
+        <Name>Test</Name>
+        <Telephone>999</Telephone>
+    </DirectoryEntry>
+</YealinkIPPhoneDirectory>
