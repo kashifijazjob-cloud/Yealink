@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<YealinkIPPhoneDirectory>
 <root_group>
 	<group display_name="All Contacts" />
 	<group display_name="Blocklist" />
@@ -105,3 +106,4 @@
 	<contact display_name="Yaseen - T-BOY" office_number="217" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
 	<contact display_name="Youzef Maintenance" office_number="216" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
 </root_contact>
+</YealinkIPPhoneDirectory>
