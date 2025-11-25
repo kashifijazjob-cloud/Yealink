@@ -1,108 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root_group>
-	<group display_name="All Contacts" />
-	<group display_name="Blocklist" />
-	<group display_name="Arar" ring="" />
-	<group display_name="Marat" ring="" />
-	<group display_name="Riyad Office 9.WareHouse" ring="" />
-	<group display_name="Riyadh Office - 1.Management" ring="" />
-	<group display_name="Riyadh Office - 2.IT" ring="" />
-	<group display_name="Riyadh Office - 3.Accounts" ring="" />
-	<group display_name="Riyadh Office - 4.Sales" ring="" />
-	<group display_name="Riyadh Office - 5.HR" ring="" />
-	<group display_name="Riyadh Office - 6.Procurement" ring="" />
-	<group display_name="Riyadh office - 7.Transport" ring="" />
-	<group display_name="Riyadh Office - 8.T.BOY" ring="" />
-	<group display_name="Shaqra" ring="" />
-</root_group>
-<root_contact>
-	<contact display_name="Abdul Rahman Secretary" office_number="201" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Abdul Saalm-Office Manager" office_number="110" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 1.Management" eyepea_contact_id="" />
-	<contact display_name="Abdulaziz-Chairman" office_number="100" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 1.Management" eyepea_contact_id="" />
-	<contact display_name="AbdulazizFahadBijadi" office_number="104" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 1.Management" eyepea_contact_id="" />
-	<contact display_name="AbdulazizMuthairi-Accounts" office_number="153" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="Abdulla - Farm Area Manager" office_number="211" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Abdullah Albijadi Accounts" office_number="307" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Ahamad Osama Broiler Manager" office_number="202" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Ahmad El Shareef Hatchery Manager" office_number="213" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Ahmad Yousef-Finance Manager" office_number="170" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="Ahmed Abdul Jawad Warehouse Manager" office_number="205" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Ahmed Abdulhaleem-Accounts" office_number="147" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="Ahmed Almadhi Production Director" office_number="200" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Ahmed Maintanace Manager Marat" office_number="306" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Ahmed Ragab Feedmill Engineer" office_number="212" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Ahmed Safety Marat" office_number="310" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Ahmed Shaker Cost Supervisor" office_number="146" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="Ahmed-IT" office_number="122" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 2.IT" eyepea_contact_id="" />
-	<contact display_name="Akash Gate Shaqra" office_number="209" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Alaa Shahien-Accounts" office_number="144" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="AmalAlmotairi Quality Controller Hatchery" office_number="208" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Ammar Jawad Senior Quality Marat" office_number="308" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Anoud Alotibi-HR" office_number="132" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 5.HR" eyepea_contact_id="" />
-	<contact display_name="Anwar Head Of The Industrial Sector" office_number="300" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Arar Accommodation" office_number="414" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Doctor Amr" office_number="412" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Farm 1" office_number="401" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Farm 2" office_number="402" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Farm 4" office_number="404" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Farm 5" office_number="405" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Farm 6" office_number="406" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Gate Ali" office_number="413" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Hatchery Maneger Ahmed Khandil" office_number="410" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Hatchery Office 2" office_number="408" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar HR" office_number="400" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Maintenance Haider" office_number="409" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arar Water Plant" office_number="407" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Arar" eyepea_contact_id="" />
-	<contact display_name="Arshad Ahmad-IT" office_number="121" mobile_number="" other_number="" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 2.IT" eyepea_contact_id="" />
-	<contact display_name="Atif Shah SalesDirector" office_number="103" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 4.Sales" eyepea_contact_id="" />
-	<contact display_name="Aymen Storekeeper" office_number="206" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Ayoub WareHouse" office_number="141" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyad Office 9.WareHouse" eyepea_contact_id="" />
-	<contact display_name="Dilshad Feedmill Supervisor" office_number="207" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Elgasim Ismail Coordinator" office_number="156" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="Fahad Al Amairah-Accounts" office_number="145" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="FeedMill Weighing Area" office_number="224" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="FeedmMill Control Room" office_number="223" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Firoz- T-BOY" office_number="218" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Ghassan Alshehada" office_number="210" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Haitham Samir- C.E.O" office_number="111" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 1.Management" eyepea_contact_id="" />
-	<contact display_name="Haitham-Follow-Up-Officer" office_number="101" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 1.Management" eyepea_contact_id="" />
-	<contact display_name="HR Manager" office_number="130" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 5.HR" eyepea_contact_id="" />
-	<contact display_name="Ibrahim DR" office_number="221" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="IbrahimSaleh Feedmill Manager" office_number="219" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Ibtisam Jamaan Purchasing" office_number="182" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 6.Procurement" eyepea_contact_id="" />
-	<contact display_name="Jalal-IT" office_number="124" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 2.IT" eyepea_contact_id="" />
-	<contact display_name="Jamal Vetrinery-Service Manager" office_number="183" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 6.Procurement" eyepea_contact_id="" />
-	<contact display_name="Jawad Consultant" office_number="184" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 1.Management" eyepea_contact_id="" />
-	<contact display_name="Kashif Ijas - IT" office_number="123" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 2.IT" eyepea_contact_id="" />
-	<contact display_name="Khalid Omar Sales" office_number="172" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 4.Sales" eyepea_contact_id="" />
-	<contact display_name="Maaz Alzain ERP Specialist" office_number="125" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 2.IT" eyepea_contact_id="" />
-	<contact display_name="Mahmoud-IT Manager" office_number="120" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 2.IT" eyepea_contact_id="" />
-	<contact display_name="Marat  Netar Store keeper" office_number="314" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Marat Manaf Amonia" office_number="301" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Marat Packing Area" office_number="303" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Marat Ravi Sankar Amonia" office_number="302" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Marat Receiving Area" office_number="304" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Marat Security" office_number="305" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Mina-IA" office_number="185" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="Mohamad Alhumaied" office_number="131" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 5.HR" eyepea_contact_id="" />
-	<contact display_name="Moideen Logistics" office_number="204" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Muhammed Al hadi-Accounts" office_number="152" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="Muhammed Amir Engineer Marat" office_number="312" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Muhammed Omar Production Manager" office_number="313" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Muhammed Yuzri Finance" office_number="203" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Muhannad Accounts Marat" office_number="311" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Naeem DR" office_number="220" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Nasraldeen Slah Cost Department" office_number="142" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="Nizamuddin Feedmill Engineer" office_number="214" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Nizar Alnaffakh" office_number="215" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Rawan Data Entry Marat" office_number="309" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Marat" eyepea_contact_id="" />
-	<contact display_name="Reem Alshehri-HR" office_number="136" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 5.HR" eyepea_contact_id="" />
-	<contact display_name="Riehan Aldosari Customer Service" office_number="195" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 4.Sales" eyepea_contact_id="" />
-	<contact display_name="Saifeldin Elbadawi Transport" office_number="192" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh office - 7.Transport" eyepea_contact_id="" />
-	<contact display_name="Sara Alzeer-Chief Accountant" office_number="140" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 3.Accounts" eyepea_contact_id="" />
-	<contact display_name="Sayed - Sales" office_number="176" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 4.Sales" eyepea_contact_id="" />
-	<contact display_name="T-Boy Krishna" office_number="199" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh Office - 8.T.BOY" eyepea_contact_id="" />
-	<contact display_name="Wadha Aldosari" office_number="191" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Riyadh office - 7.Transport" eyepea_contact_id="" />
-	<contact display_name="Yaseen - T-BOY" office_number="217" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-	<contact display_name="Youzef Maintenance" office_number="216" mobile_number="" other_number="" line="-1" ring="" default_photo="" selected_photo="0" group_id_name="Shaqra" eyepea_contact_id="" />
-</root_contact>
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+    <Menu Name="Bella">
+        <Unit Name="Cindy" Phone1="8101" Phone2="" Phone3=""/>
+        <Unit Name="Miki" Phone1="8102" Phone2="" Phone3=""/>
+        <Unit Name="Lynn" Phone1="8103" Phone2="" Phone3=""/>
+        <Unit Name="Ian" Phone1="8104" Phone2="" Phone3=""/>
+        <Unit Name="Sharon" Phone1="8105" Phone2="" Phone3=""/>
+        <Unit Name="Sanborn" Phone1="8106" Phone2="" Phone3=""/>
+        <Unit Name="Jessica" Phone1="8107" Phone2="" Phone3=""/>
+    </Menu>
+
+    <Menu Name="Friend">
+        <Unit Name="Lucy" Phone1="8201" Phone2="" Phone3=""/>
+        <Unit Name="Mark" Phone1="8202" Phone2="" Phone3=""/>
+        <Unit Name="Tom" Phone1="8203" Phone2="" Phone3=""/>
+    </Menu>
+</YealinkIPPhoneBook>
