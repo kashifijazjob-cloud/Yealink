@@ -1,219 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneDirectory>
-  <Title>Riyadh Contacts</Title>
+<YealinkIPPhoneBook>
 
-  <!-- Management -->
-  <DirectoryEntry>
-    <Name>Abdul Saalm-Office Manager</Name>
-    <Telephone>110</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Haitham Samir- C.E.O</Name>
-    <Telephone>111</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Abdulaziz-Chairman</Name>
-    <Telephone>100</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Haitham-Follow-Up-Officer</Name>
-    <Telephone>101</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Jawad Consultant</Name>
-    <Telephone>184</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>AbdulazizFahadBijadi</Name>
-    <Telephone>104</Telephone>
-  </DirectoryEntry>
+    <!-- =======================
+         Riyadh Office - 1.Management
+         ======================= -->
+    <Menu Name="1.Management">
+        <Unit Name="Abdul Saalm - Office Manager" Phone1="110" Phone2="" Phone3=""/>
+        <Unit Name="Haitham Samir - CEO" Phone1="111" Phone2="" Phone3=""/>
+        <Unit Name="Abdulaziz - Chairman" Phone1="100" Phone2="" Phone3=""/>
+        <Unit Name="Haitham - Follow-Up-Officer" Phone1="101" Phone2="" Phone3=""/>
+        <Unit Name="Jawad Consultant" Phone1="184" Phone2="" Phone3=""/>
+        <Unit Name="Abdulaziz Fahad Bijadi" Phone1="104" Phone2="" Phone3=""/>
+    </Menu>
 
-  <!-- IT -->
-  <DirectoryEntry>
-    <Name>Arshad Ahmad-IT</Name>
-    <Telephone>121</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Mahmoud-IT Manager</Name>
-    <Telephone>120</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Ahmed Salmi IT</Name>
-    <Telephone>122</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Kashif Ijaz - IT</Name>
-    <Telephone>123</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Jalal-IT</Name>
-    <Telephone>124</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Maaz Alzain ERP Specialist</Name>
-    <Telephone>125</Telephone>
-  </DirectoryEntry>
+    <!-- =======================
+         Riyadh Office - 2.IT
+         ======================= -->
+    <Menu Name="2.IT">
+        <Unit Name="Arshad Ahmad - IT" Phone1="121" Phone2="" Phone3=""/>
+        <Unit Name="Mahmoud - IT Manager" Phone1="120" Phone2="" Phone3=""/>
+        <Unit Name="Ahmed - IT" Phone1="122" Phone2="" Phone3=""/>
+        <Unit Name="Kashif Ijas - IT" Phone1="123" Phone2="" Phone3=""/>
+        <Unit Name="Jalal - IT" Phone1="124" Phone2="" Phone3=""/>
+        <Unit Name="Maaz Alzain - ERP Specialist" Phone1="125" Phone2="" Phone3=""/>
+    </Menu>
 
-  <!-- Accounts -->
-  <DirectoryEntry>
-    <Name>Mina-IA</Name>
-    <Telephone>185</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Sara Alzeer-Chief Accountant</Name>
-    <Telephone>140</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Muhammed Abubaker -Accounts</Name>
-    <Telephone>154</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Muhammed Almutairi-Accounts</Name>
-    <Telephone>151</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Muhammed Al hadi-Accounts</Name>
-    <Telephone>152</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>AbdulazizMuthairi-Accounts</Name>
-    <Telephone>153</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Shadi- Accounts</Name>
-    <Telephone>149</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Ahmed Abdulhaleem-Accounts</Name>
-    <Telephone>147</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Alaa Shahien-Accounts</Name>
-    <Telephone>144</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Fahad Al Amairah-Accounts</Name>
-    <Telephone>145</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Elgasim Ismail Coordinator</Name>
-    <Telephone>156</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Nasraldeen Slah Cost Department</Name>
-    <Telephone>142</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Ahmed Shaker Cost Supervisor</Name>
-    <Telephone>146</Telephone>
-  </DirectoryEntry>
+    <!-- =======================
+         Riyadh Office - 3.Accounts
+         ======================= -->
+    <Menu Name="3.Accounts">
+        <Unit Name="Mina - IA" Phone1="185" Phone2="" Phone3=""/>
+        <Unit Name="Ahmad Yousef - Finance Manager" Phone1="170" Phone2="" Phone3=""/>
+        <Unit Name="Sara Alzeer - Chief Accountant" Phone1="140" Phone2="" Phone3=""/>
+        <Unit Name="Muhammed Al Hadi - Accounts" Phone1="152" Phone2="" Phone3=""/>
+        <Unit Name="Abdulaziz Muthairi - Accounts" Phone1="153" Phone2="" Phone3=""/>
+        <Unit Name="Ahmed Abdulhaleem - Accounts" Phone1="147" Phone2="" Phone3=""/>
+        <Unit Name="Alaa Shahien - Accounts" Phone1="144" Phone2="" Phone3=""/>
+        <Unit Name="Fahad Al Amairah - Accounts" Phone1="145" Phone2="" Phone3=""/>
+        <Unit Name="Nasraldeen Slah - Cost Department" Phone1="142" Phone2="" Phone3=""/>
+        <Unit Name="Ahmed Shaker - Cost Supervisor" Phone1="146" Phone2="" Phone3=""/>
+        <Unit Name="Elgasim Ismail - Coordinator" Phone1="156" Phone2="" Phone3=""/>
+    </Menu>
 
-  <!-- HR -->
-  <DirectoryEntry>
-    <Name>Walled Humran-HR</Name>
-    <Telephone>130</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Abdullah Alsalem-HR</Name>
-    <Telephone>134</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Anoud Alotibi-HR</Name>
-    <Telephone>132</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Dona Bijadi-HR</Name>
-    <Telephone>133</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Reem Alshehri-HR</Name>
-    <Telephone>136</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Abdulaziz Aladeliah Gov Relation officer</Name>
-    <Telephone>137</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Mohamad Alhumaied</Name>
-    <Telephone>131</Telephone>
-  </DirectoryEntry>
+    <!-- =======================
+         Riyadh Office - 4.Sales
+         ======================= -->
+    <Menu Name="4.Sales">
+        <Unit Name="Sayed - Sales" Phone1="176" Phone2="" Phone3=""/>
+        <Unit Name="Khalid Omar - Sales" Phone1="172" Phone2="" Phone3=""/>
+        <Unit Name="Riehan Aldosari - Customer Service" Phone1="195" Phone2="" Phone3=""/>
+        <Unit Name="Atif Shah - Sales Director" Phone1="103" Phone2="" Phone3=""/>
+    </Menu>
 
-  <!-- Sales -->
-  <DirectoryEntry>
-    <Name>Ahmad Yousef-Finance Manager</Name>
-    <Telephone>170</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Sayed - Sales</Name>
-    <Telephone>176</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>ImranKhan-Sales</Name>
-    <Telephone>174</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Rubel</Name>
-    <Telephone>173</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Khalid Omar Sales</Name>
-    <Telephone>172</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Riehan Aldosari Customer Service</Name>
-    <Telephone>195</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Abdulrahman Fahad Albejadi</Name>
-    <Telephone>177</Telephone>
-  </DirectoryEntry>
+    <!-- =======================
+         Riyadh Office - 5.HR
+         ======================= -->
+    <Menu Name="5.HR">
+        <Unit Name="Anoud Alotibi - HR" Phone1="132" Phone2="" Phone3=""/>
+        <Unit Name="Reem Alshehri - HR" Phone1="136" Phone2="" Phone3=""/>
+        <Unit Name="Mohamad Alhumaied" Phone1="131" Phone2="" Phone3=""/>
+        <Unit Name="HR Manager" Phone1="130" Phone2="" Phone3=""/>
+    </Menu>
 
-  <!-- Procurement -->
-  <DirectoryEntry>
-    <Name>Anas Manager-Procurement</Name>
-    <Telephone>180</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Islam Procurement</Name>
-    <Telephone>181</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Jamal Vetrinery-Service Manager</Name>
-    <Telephone>183</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Ibtisam Jamaan Purchasing</Name>
-    <Telephone>182</Telephone>
-  </DirectoryEntry>
+    <!-- =======================
+         Riyadh Office - 6.Procurement
+         ======================= -->
+    <Menu Name="6.Procurement">
+        <Unit Name="Jamal Vetrinery - Service Manager" Phone1="183" Phone2="" Phone3=""/>
+        <Unit Name="Ibtisam Jamaan - Purchasing" Phone1="182" Phone2="" Phone3=""/>
+    </Menu>
 
-  <!-- Transport -->
-  <DirectoryEntry>
-    <Name>Wael Mohamed Transport</Name>
-    <Telephone>190</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Wadha Aldosari</Name>
-    <Telephone>191</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Saifeldin Elbadawi Transport</Name>
-    <Telephone>192</Telephone>
-  </DirectoryEntry>
+    <!-- =======================
+         Riyadh Office - 7.Transport
+         ======================= -->
+    <Menu Name="7.Transport">
+        <Unit Name="Wadha Aldosari" Phone1="191" Phone2="" Phone3=""/>
+        <Unit Name="Saifeldin Elbadawi - Transport" Phone1="192" Phone2="" Phone3=""/>
+    </Menu>
 
-  <!-- T.BOY -->
-  <DirectoryEntry>
-    <Name>T-Boy Abdul</Name>
-    <Telephone>198</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>T-Boy Krishna</Name>
-    <Telephone>199</Telephone>
-  </DirectoryEntry>
+    <!-- =======================
+         Riyadh Office - 8.T.BOY
+         ======================= -->
+    <Menu Name="8.T.BOY">
+        <Unit Name="T-Boy Krishna" Phone1="199" Phone2="" Phone3=""/>
+    </Menu>
 
-  <!-- Warehouse -->
-  <DirectoryEntry>
-    <Name>Ayoub WareHouse</Name>
-    <Telephone>141</Telephone>
-  </DirectoryEntry>
+    <!-- =======================
+         Riyad Office - 9.WareHouse
+         ======================= -->
+    <Menu Name="9.WareHouse">
+        <Unit Name="Ayoub WareHouse" Phone1="141" Phone2="" Phone3=""/>
+    </Menu>
 
-</YealinkIPPhoneDirectory>
+</YealinkIPPhoneBook>
