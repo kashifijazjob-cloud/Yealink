@@ -1,18 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneBook>
-    <Menu Name="Arar">
-        <Unit Name="HR Office" Phone1="400"/>
-        <Unit Name="Farm 1" Phone1="401"/>
-        <Unit Name="Farm 2" Phone1="402"/>
-        <Unit Name="Farm 4" Phone1="404"/>
-        <Unit Name="Farm 5" Phone1="405"/>
-        <Unit Name="Farm 6" Phone1="406"/>
-        <Unit Name="Water Plant" Phone1="407"/>
-        <Unit Name="Hatchery Manager - Ahmed Khandil" Phone1="410"/>
-        <Unit Name="Hatchery Office 2" Phone1="408"/>
-        <Unit Name="Doctor Amr" Phone1="412"/>
-        <Unit Name="Gate Ali" Phone1="413"/>
-        <Unit Name="Accommodation" Phone1="414"/>
-        <Unit Name="Maintenance - Haider" Phone1="409"/>
+
+    <!-- ======================================================
+                             ARAR OFFICE
+    ====================================================== -->
+
+
+    <!-- ========== 1. HR DEPARTMENT ========== -->
+    <Menu Name="1.HR">
+        <Unit Name="Arar HR" Phone1="400"/>
     </Menu>
+
+
+    <!-- ========== 2. FARMS ========== -->
+    <Menu Name="2.Farms">
+        <Unit Name="Arar Farm 1" Phone1="401"/>
+        <Unit Name="Arar Farm 2" Phone1="402"/>
+        <Unit Name="Arar Farm 4" Phone1="404"/>
+        <Unit Name="Arar Farm 5" Phone1="405"/>
+        <Unit Name="Arar Farm 6" Phone1="406"/>
+    </Menu>
+
+
+    <!-- ========== 3. WATER PLANT ========== -->
+    <Menu Name="3.Water Plant">
+        <Unit Name="Arar Water Plant" Phone1="407"/>
+    </Menu>
+
+
+    <!-- ========== 4. HATCHERY ========== -->
+    <Menu Name="4.Hatchery">
+        <Unit Name="Ahmed Khandil - Hatchery Manager" Phone1="410"/>
+        <Unit Name="Arar Hatchery Office 2" Phone1="408"/>
+    </Menu>
+
+
+    <!-- ========== 5. MEDICAL ========== -->
+    <Menu Name="5.Medical">
+        <Unit Name="Dr. Amr" Phone1="412"/>
+    </Menu>
+
+
+    <!-- ========== 6. SECURITY & GATE ========== -->
+    <Menu Name="6.Security">
+        <Unit Name="Arar Gate - Ali" Phone1="413"/>
+    </Menu>
+
+
+    <!-- ========== 7. ACCOMMODATION ========== -->
+    <Menu Name="7.Accommodation">
+        <Unit Name="Arar Accommodation" Phone1="414"/>
+    </Menu>
+
+
+    <!-- ========== 8. MAINTENANCE ========== -->
+    <Menu Name="8.Maintenance">
+        <Unit Name="Haider - Maintenance" Phone1="409"/>
+    </Menu>
+
 </YealinkIPPhoneBook>
