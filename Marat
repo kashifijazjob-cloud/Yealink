@@ -6,7 +6,7 @@
     ====================================================== -->
 
     <!-- ========== MANAGEMENT ========== -->
-    <Menu Name="Marat - 1.Management">
+    <Menu Name="1.Management">
         <Unit Name="Anwar - Head of Industrial Sector" Phone1="300"/>
         <Unit Name="Ahmed Maintenance Manager" Phone1="306"/>
         <Unit Name="Muhammed Omar - Production Manager" Phone1="313"/>
@@ -14,24 +14,24 @@
     </Menu>
 
     <!-- ========== ACCOUNTING ========== -->
-    <Menu Name="Marat - 2.Accounts">
+    <Menu Name="2.Accounts">
         <Unit Name="Abdullah Albijadi - Accounts" Phone1="307"/>
         <Unit Name="Muhannad - Accounts" Phone1="311"/>
     </Menu>
 
     <!-- ========== QUALITY ========== -->
-    <Menu Name="Marat - 3.Quality">
+    <Menu Name="3.Quality">
         <Unit Name="Ammar Jawad - Senior Quality" Phone1="308"/>
         <Unit Name="Amal Almotairi - Quality Controller Hatchery" Phone1="208"/>
     </Menu>
 
     <!-- ========== SAFETY ========== -->
-    <Menu Name="Marat - 4.Safety">
+    <Menu Name="4.Safety">
         <Unit Name="Ahmed - Safety" Phone1="310"/>
     </Menu>
 
     <!-- ========== PRODUCTION ========== -->
-    <Menu Name="Marat - 5.Production">
+    <Menu Name="5.Production">
         <Unit Name="Muhammed Omar - Production Manager" Phone1="313"/>
         <Unit Name="Muhammed Amir - Engineer" Phone1="312"/>
         <Unit Name="Marat Manaf - Ammonia" Phone1="301"/>
@@ -39,24 +39,24 @@
     </Menu>
 
     <!-- ========== PACKING / RECEIVING ========== -->
-    <Menu Name="Marat - 6.Packing & Receiving">
+    <Menu Name="6.Packing & Receiving">
         <Unit Name="Packing Area" Phone1="303"/>
         <Unit Name="Receiving Area" Phone1="304"/>
     </Menu>
 
     <!-- ========== SECURITY ========== -->
-    <Menu Name="Marat - 7.Security">
+    <Menu Name="7.Security">
         <Unit Name="Marat Security" Phone1="305"/>
     </Menu>
 
     <!-- ========== LOGISTICS / STOREKEEPING ========== -->
-    <Menu Name="Marat - 8.Store & Logistics">
+    <Menu Name="8.Store & Logistics">
         <Unit Name="Netar - Store Keeper" Phone1="314"/>
         <Unit Name="Moideen - Logistics" Phone1="204"/> <!-- unsure if this Marat or Shaqra; if only Shaqra remove -->
     </Menu>
 
     <!-- ========== DATA ENTRY ========== -->
-    <Menu Name="Marat - 9.Data Entry">
+    <Menu Name="9.Data Entry">
         <Unit Name="Rawan - Data Entry" Phone1="309"/>
     </Menu>
 
