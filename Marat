@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneBook>
+<!-- ======================================================
+                         fazool
+    ====================================================== -->
+<Menu Name="1.Management">
+<Menu Name="1.Management">
+        <Unit Name="Anwar - Head of Industrial Sector" Phone1="300"/>
+        <Unit Name="Ahmed Maintenance Manager" Phone1="306"/>
+        <Unit Name="Muhammed Omar - Production Manager" Phone1="313"/>
+        <Unit Name="Ammar Jawad - Senior Quality" Phone1="308"/>
+    </Menu>
+        <Unit Name="Anwar - Head of Industrial Sector" Phone1="300"/>
+        <Unit Name="Ahmed Maintenance Manager" Phone1="306"/>
+        <Unit Name="Muhammed Omar - Production Manager" Phone1="313"/>
+        <Unit Name="Ammar Jawad - Senior Quality" Phone1="308"/>
+    </Menu>
 
+
+<Menu Name="1.Management">
+        <Unit Name="Anwar - Head of Industrial Sector" Phone1="300"/>
+        <Unit Name="Ahmed Maintenance Manager" Phone1="306"/>
+        <Unit Name="Muhammed Omar - Production Manager" Phone1="313"/>
+        <Unit Name="Ammar Jawad - Senior Quality" Phone1="308"/>
+    </Menu>
+<!-- ======================================================
+                         Fazool
+    ====================================================== -->
     <!-- ======================================================
                          MARAT OFFICE
     ====================================================== -->
